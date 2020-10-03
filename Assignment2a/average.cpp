@@ -5,10 +5,8 @@
  * *		 prints out the average of those numbers.
  * **********************************************************************/
 
-#include <iostream>
-using std::cout;
-using std::cin;
-using std::endl;
+#include<iostream>
+using namespace std;
 
 int main()
 {
